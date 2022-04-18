@@ -1,2 +1,17 @@
-# battl3ships
-Batalla Naval hecha en Phyton
+# Batalla Naval
+
+Jugador vs Ordenador.
+Inteligencia Artificial.
+
+
+-----------------
+Versiones futuras:
+* Botonera para reinicio.
+* Mejora interfase.
+
+
+
+
+
+---------------------------------------------------------------------------
+by voltum3l
